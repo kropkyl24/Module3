@@ -1,0 +1,28 @@
+/* style.css */
+
+body {
+    font-family: 'Dancing Script Regular', Helvetica, Arial, sans-serif;
+    color: #665544;
+    margin: 0;
+    padding: 0 32%;
+}
+
+h1, p, i {
+    font-family: 'Dancing Script';
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 400%;
+}
+
+p {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 200%;
+}
+
+i {
+    color: darkgreen;
+}
